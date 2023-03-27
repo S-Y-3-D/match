@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596221088121",
+    "project_id": "signingo-c6b7f",
+    "storage_bucket": "signingo-c6b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596221088121:android:cbb26d764401ad4c045fa8",
+        "android_client_info": {
+          "package_name": "com.syedhamza17.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596221088121-jds5037hj0bi7v92j4pf6jcb5bpkjnu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syedhamza17.googlesignin",
+            "certificate_hash": "4c3a2b3935db3cc816f196b926aac71014ec6906"
+          }
+        },
+        {
+          "client_id": "596221088121-qri51r3k6gbflpq6h4f5ha150j4dkaqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syedhamza17.googlesignin",
+            "certificate_hash": "d825f67bab36b4c610411d20938811fcabfe72c8"
+          }
+        },
+        {
+          "client_id": "596221088121-08hfauu9kprqftfpdb4oq12qsrjslb51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5nWE6lLH-1jR6681oGmiom_xoAuZCyB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596221088121-08hfauu9kprqftfpdb4oq12qsrjslb51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
